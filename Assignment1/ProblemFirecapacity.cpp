@@ -59,5 +59,6 @@ int main()
     cout << "Number of people that must be excluded to meet fire regulations: " << numPeopleExcluded<< endl;
 
   }
+  return 0;
 
 }

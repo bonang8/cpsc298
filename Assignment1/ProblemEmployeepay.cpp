@@ -83,4 +83,5 @@ cout << "state income tax: " << stateIncomeTax << endl;
 // STEP 4 : TOTAL NET PAY
 netPay = grossPay - (socialSecurityTax + federalIncomeTax + stateIncomeTax + medicalInsurance);
 cout << "Net take-home pay for week: $" << netPay << endl;
+return 0;
 }

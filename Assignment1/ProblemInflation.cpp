@@ -53,6 +53,6 @@ while(yearCount < yearsTillPurchase)
    yearCount++;
 }
 cout << "The price adjusted after inflation: " << itemCost << endl;
-
+return 0;
 
 }
