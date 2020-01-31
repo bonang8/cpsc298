@@ -35,4 +35,5 @@ int main()
   cout << "age: "<< pet2.getAge()<< endl;
   cout << "type: " << pet2.getType()<< endl;
   cout << "weight: "<< pet2.getWeight()<< endl;
+  return 0; 
 }
